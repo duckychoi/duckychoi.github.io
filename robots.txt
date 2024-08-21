@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://duckychoi.github.io/al-folio/sitemap.xml
+Sitemap: https://duckychoi/duckychoi.github.io/al-folio/sitemap.xml
